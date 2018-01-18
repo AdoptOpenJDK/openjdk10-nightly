@@ -1,12 +1,12 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/9213890",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/9213890/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/9213890/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20181201",
-  "id": 9213890,
-  "tag_name": "jdk-10+23-20181201",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/9290440",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/9290440/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/9290440/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20181801",
+  "id": 9290440,
+  "tag_name": "jdk-10+23-20181801",
   "target_commitish": "master",
-  "name": "jdk-10+23-20181201",
+  "name": "jdk-10+23-20181801",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -28,13 +28,13 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-01-11T15:45:50Z",
-  "published_at": "2018-01-12T15:05:46Z",
+  "created_at": "2018-01-13T19:45:35Z",
+  "published_at": "2018-01-18T16:01:37Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854613",
-      "id": 5854613,
-      "name": "OpenJDK10_aarch64_Linux_20181201.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914086",
+      "id": 5914086,
+      "name": "OpenJDK10_aarch64_Linux_20181801.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -59,14 +59,14 @@
       "state": "uploaded",
       "size": 106,
       "download_count": 0,
-      "created_at": "2018-01-12T15:05:46Z",
-      "updated_at": "2018-01-12T15:05:46Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_aarch64_Linux_20181201.sha256.txt"
+      "created_at": "2018-01-18T16:01:37Z",
+      "updated_at": "2018-01-18T16:01:37Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_aarch64_Linux_20181801.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854614",
-      "id": 5854614,
-      "name": "OpenJDK10_aarch64_Linux_20181201.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914087",
+      "id": 5914087,
+      "name": "OpenJDK10_aarch64_Linux_20181801.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -89,16 +89,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 190598477,
+      "size": 190597243,
       "download_count": 0,
-      "created_at": "2018-01-12T15:05:47Z",
-      "updated_at": "2018-01-12T15:06:06Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_aarch64_Linux_20181201.tar.gz"
+      "created_at": "2018-01-18T16:01:38Z",
+      "updated_at": "2018-01-18T16:01:51Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_aarch64_Linux_20181801.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854627",
-      "id": 5854627,
-      "name": "OpenJDK10_ppc64le_Linux_20181201.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914111",
+      "id": 5914111,
+      "name": "OpenJDK10_ppc64le_Linux_20181801.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -123,14 +123,14 @@
       "state": "uploaded",
       "size": 106,
       "download_count": 0,
-      "created_at": "2018-01-12T15:06:31Z",
-      "updated_at": "2018-01-12T15:06:31Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_ppc64le_Linux_20181201.sha256.txt"
+      "created_at": "2018-01-18T16:02:13Z",
+      "updated_at": "2018-01-18T16:02:13Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_ppc64le_Linux_20181801.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854628",
-      "id": 5854628,
-      "name": "OpenJDK10_ppc64le_Linux_20181201.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914112",
+      "id": 5914112,
+      "name": "OpenJDK10_ppc64le_Linux_20181801.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -153,16 +153,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 190851799,
+      "size": 190852252,
       "download_count": 0,
-      "created_at": "2018-01-12T15:06:31Z",
-      "updated_at": "2018-01-12T15:06:44Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_ppc64le_Linux_20181201.tar.gz"
+      "created_at": "2018-01-18T16:02:14Z",
+      "updated_at": "2018-01-18T16:02:28Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_ppc64le_Linux_20181801.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854618",
-      "id": 5854618,
-      "name": "OpenJDK10_ppc64_AIX_20181201.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914095",
+      "id": 5914095,
+      "name": "OpenJDK10_ppc64_AIX_20181801.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -187,14 +187,14 @@
       "state": "uploaded",
       "size": 102,
       "download_count": 0,
-      "created_at": "2018-01-12T15:06:06Z",
-      "updated_at": "2018-01-12T15:06:06Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_ppc64_AIX_20181201.sha256.txt"
+      "created_at": "2018-01-18T16:01:52Z",
+      "updated_at": "2018-01-18T16:01:52Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_ppc64_AIX_20181801.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854619",
-      "id": 5854619,
-      "name": "OpenJDK10_ppc64_AIX_20181201.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914097",
+      "id": 5914097,
+      "name": "OpenJDK10_ppc64_AIX_20181801.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -217,16 +217,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 294578798,
+      "size": 294569513,
       "download_count": 0,
-      "created_at": "2018-01-12T15:06:07Z",
-      "updated_at": "2018-01-12T15:06:30Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_ppc64_AIX_20181201.tar.gz"
+      "created_at": "2018-01-18T16:01:52Z",
+      "updated_at": "2018-01-18T16:02:13Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_ppc64_AIX_20181801.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854633",
-      "id": 5854633,
-      "name": "OpenJDK10_x64_Linux_20181201.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914113",
+      "id": 5914113,
+      "name": "OpenJDK10_x64_Linux_20181801.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -251,14 +251,14 @@
       "state": "uploaded",
       "size": 102,
       "download_count": 0,
-      "created_at": "2018-01-12T15:06:45Z",
-      "updated_at": "2018-01-12T15:06:45Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_x64_Linux_20181201.sha256.txt"
+      "created_at": "2018-01-18T16:02:28Z",
+      "updated_at": "2018-01-18T16:02:28Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_x64_Linux_20181801.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854634",
-      "id": 5854634,
-      "name": "OpenJDK10_x64_Linux_20181201.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914114",
+      "id": 5914114,
+      "name": "OpenJDK10_x64_Linux_20181801.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -281,16 +281,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 206950588,
+      "size": 207231927,
       "download_count": 0,
-      "created_at": "2018-01-12T15:06:45Z",
-      "updated_at": "2018-01-12T15:06:59Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_x64_Linux_20181201.tar.gz"
+      "created_at": "2018-01-18T16:02:29Z",
+      "updated_at": "2018-01-18T16:02:46Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_x64_Linux_20181801.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854637",
-      "id": 5854637,
-      "name": "OpenJDK10_x64_Mac_20181201.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914117",
+      "id": 5914117,
+      "name": "OpenJDK10_x64_Mac_20181801.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -315,14 +315,14 @@
       "state": "uploaded",
       "size": 100,
       "download_count": 0,
-      "created_at": "2018-01-12T15:07:00Z",
-      "updated_at": "2018-01-12T15:07:00Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_x64_Mac_20181201.sha256.txt"
+      "created_at": "2018-01-18T16:02:46Z",
+      "updated_at": "2018-01-18T16:02:46Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_x64_Mac_20181801.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854638",
-      "id": 5854638,
-      "name": "OpenJDK10_x64_Mac_20181201.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914118",
+      "id": 5914118,
+      "name": "OpenJDK10_x64_Mac_20181801.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -345,16 +345,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 201078065,
+      "size": 201076938,
       "download_count": 0,
-      "created_at": "2018-01-12T15:07:00Z",
-      "updated_at": "2018-01-12T15:07:20Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_x64_Mac_20181201.tar.gz"
+      "created_at": "2018-01-18T16:02:47Z",
+      "updated_at": "2018-01-18T16:03:00Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_x64_Mac_20181801.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854644",
-      "id": 5854644,
-      "name": "OpenJDK10_x64_Win_20181201.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914121",
+      "id": 5914121,
+      "name": "OpenJDK10_x64_Win_20181801.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -379,14 +379,14 @@
       "state": "uploaded",
       "size": 97,
       "download_count": 0,
-      "created_at": "2018-01-12T15:07:21Z",
-      "updated_at": "2018-01-12T15:07:21Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_x64_Win_20181201.sha256.txt"
+      "created_at": "2018-01-18T16:03:00Z",
+      "updated_at": "2018-01-18T16:03:00Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_x64_Win_20181801.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5854645",
-      "id": 5854645,
-      "name": "OpenJDK10_x64_Win_20181201.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/5914122",
+      "id": 5914122,
+      "name": "OpenJDK10_x64_Win_20181801.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -409,14 +409,14 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 204563150,
-      "download_count": 2,
-      "created_at": "2018-01-12T15:07:21Z",
-      "updated_at": "2018-01-12T15:07:50Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181201/OpenJDK10_x64_Win_20181201.zip"
+      "size": 204564796,
+      "download_count": 0,
+      "created_at": "2018-01-18T16:03:01Z",
+      "updated_at": "2018-01-18T16:03:16Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20181801/OpenJDK10_x64_Win_20181801.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/tarball/jdk-10+23-20181201",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/zipball/jdk-10+23-20181201",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/tarball/jdk-10+23-20181801",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/zipball/jdk-10+23-20181801",
   "body": "Nightly Build of jdk-10+23"
 }
