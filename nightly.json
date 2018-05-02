@@ -6061,8 +6061,8 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20180502/OpenJDK10_x64_Mac_20180502.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6105313",
-        "id": 6105313,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7044240",
+        "id": 7044240,
         "name": "OpenJDK10_x64_Win_20180502.sha256.txt",
         "label": "",
         "uploader": {
@@ -6087,14 +6087,14 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 97,
-        "download_count": 2,
-        "created_at": "2018-02-05T14:57:05Z",
-        "updated_at": "2018-02-05T14:57:05Z",
+        "download_count": 0,
+        "created_at": "2018-05-02T14:19:12Z",
+        "updated_at": "2018-05-02T14:19:13Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20180502/OpenJDK10_x64_Win_20180502.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6105314",
-        "id": 6105314,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7044243",
+        "id": 7044243,
         "name": "OpenJDK10_x64_Win_20180502.zip",
         "label": "",
         "uploader": {
@@ -6118,10 +6118,10 @@
         },
         "content_type": "application/zip",
         "state": "uploaded",
-        "size": 204565040,
-        "download_count": 29,
-        "created_at": "2018-02-05T14:57:05Z",
-        "updated_at": "2018-02-05T14:57:20Z",
+        "size": 231003676,
+        "download_count": 0,
+        "created_at": "2018-05-02T14:19:14Z",
+        "updated_at": "2018-05-02T14:20:02Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20180502/OpenJDK10_x64_Win_20180502.zip"
       }
     ],
