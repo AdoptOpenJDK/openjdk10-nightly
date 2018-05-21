@@ -90,7 +90,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 302488181,
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2018-05-21T15:05:39Z",
       "updated_at": "2018-05-21T15:09:14Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20180521/OpenJDK10_ppc64_AIX_20180521.tar.gz"
