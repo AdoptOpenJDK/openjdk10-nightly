@@ -90,7 +90,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 229617544,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-05-26T00:51:05Z",
       "updated_at": "2018-05-26T01:03:13Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20180526/OpenJDK10_x64_Mac_20180526.tar.gz"
