@@ -5,6 +5,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11229799/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180530",
     "id": 11229799,
+    "node_id": "MDc6UmVsZWFzZTExMjI5Nzk5",
     "tag_name": "jdk-10+23-20180530",
     "target_commitish": "master",
     "name": "jdk-10+23-20180530",
@@ -12,6 +13,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -35,11 +37,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7352161",
         "id": 7352161,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIxNjE=",
         "name": "OpenJDK10_ppc64le_Linux_20180530.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -67,11 +71,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7352162",
         "id": 7352162,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIxNjI=",
         "name": "OpenJDK10_ppc64le_Linux_20180530.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -99,11 +105,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7351321",
         "id": 7351321,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTEzMjE=",
         "name": "OpenJDK10_ppc64_AIX_20180530.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -131,11 +139,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7351322",
         "id": 7351322,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTEzMjI=",
         "name": "OpenJDK10_ppc64_AIX_20180530.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -163,11 +173,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7352474",
         "id": 7352474,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTI0NzQ=",
         "name": "OpenJDK10_x64_Linux_20180530.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -195,11 +207,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7352475",
         "id": 7352475,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTI0NzU=",
         "name": "OpenJDK10_x64_Linux_20180530.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -227,11 +241,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7350861",
         "id": 7350861,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTA4NjE=",
         "name": "OpenJDK10_x64_Win_20180530.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -259,11 +275,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7350862",
         "id": 7350862,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTA4NjI=",
         "name": "OpenJDK10_x64_Win_20180530.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -299,6 +317,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11221214/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180529",
     "id": 11221214,
+    "node_id": "MDc6UmVsZWFzZTExMjIxMjE0",
     "tag_name": "jdk-10+23-20180529",
     "target_commitish": "master",
     "name": "jdk-10+23-20180529",
@@ -306,6 +325,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -329,11 +349,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7339794",
         "id": 7339794,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMzk3OTQ=",
         "name": "OpenJDK10_x64_Linux_20180529.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -361,11 +383,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7339795",
         "id": 7339795,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMzk3OTU=",
         "name": "OpenJDK10_x64_Linux_20180529.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -393,11 +417,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7340207",
         "id": 7340207,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDAyMDc=",
         "name": "OpenJDK10_x64_Mac_20180529.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -425,11 +451,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7340208",
         "id": 7340208,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDAyMDg=",
         "name": "OpenJDK10_x64_Mac_20180529.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -457,11 +485,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7337285",
         "id": 7337285,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMzcyODU=",
         "name": "OpenJDK10_x64_Win_20180529.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -489,11 +519,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7337286",
         "id": 7337286,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMzcyODY=",
         "name": "OpenJDK10_x64_Win_20180529.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -529,6 +561,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11205539/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180528",
     "id": 11205539,
+    "node_id": "MDc6UmVsZWFzZTExMjA1NTM5",
     "tag_name": "jdk-10+23-20180528",
     "target_commitish": "master",
     "name": "jdk-10+23-20180528",
@@ -536,6 +569,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -559,11 +593,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7328045",
         "id": 7328045,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjgwNDU=",
         "name": "OpenJDK10_ppc64le_Linux_20180528.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -591,11 +627,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7328046",
         "id": 7328046,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjgwNDY=",
         "name": "OpenJDK10_ppc64le_Linux_20180528.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -623,11 +661,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7326707",
         "id": 7326707,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjY3MDc=",
         "name": "OpenJDK10_ppc64_AIX_20180528.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -655,11 +695,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7326708",
         "id": 7326708,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjY3MDg=",
         "name": "OpenJDK10_ppc64_AIX_20180528.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -687,11 +729,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7327275",
         "id": 7327275,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjcyNzU=",
         "name": "OpenJDK10_x64_Linux_20180528.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -719,11 +763,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7327276",
         "id": 7327276,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjcyNzY=",
         "name": "OpenJDK10_x64_Linux_20180528.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -751,11 +797,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7328419",
         "id": 7328419,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjg0MTk=",
         "name": "OpenJDK10_x64_Mac_20180528.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -783,11 +831,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7328420",
         "id": 7328420,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjg0MjA=",
         "name": "OpenJDK10_x64_Mac_20180528.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -815,11 +865,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7326270",
         "id": 7326270,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjYyNzA=",
         "name": "OpenJDK10_x64_Win_20180528.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -847,11 +899,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7326271",
         "id": 7326271,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMjYyNzE=",
         "name": "OpenJDK10_x64_Win_20180528.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -887,6 +941,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11193892/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180527",
     "id": 11193892,
+    "node_id": "MDc6UmVsZWFzZTExMTkzODky",
     "tag_name": "jdk-10+23-20180527",
     "target_commitish": "master",
     "name": "jdk-10+23-20180527",
@@ -894,6 +949,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -917,11 +973,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7316575",
         "id": 7316575,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMTY1NzU=",
         "name": "OpenJDK10_x64_Mac_20180527.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -949,11 +1007,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7316576",
         "id": 7316576,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMTY1NzY=",
         "name": "OpenJDK10_x64_Mac_20180527.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -989,6 +1049,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11187246/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180526",
     "id": 11187246,
+    "node_id": "MDc6UmVsZWFzZTExMTg3MjQ2",
     "tag_name": "jdk-10+23-20180526",
     "target_commitish": "master",
     "name": "jdk-10+23-20180526",
@@ -996,6 +1057,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1019,11 +1081,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7308511",
         "id": 7308511,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMDg1MTE=",
         "name": "OpenJDK10_x64_Mac_20180526.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1051,11 +1115,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7308512",
         "id": 7308512,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMDg1MTI=",
         "name": "OpenJDK10_x64_Mac_20180526.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1091,6 +1157,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11169485/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180525",
     "id": 11169485,
+    "node_id": "MDc6UmVsZWFzZTExMTY5NDg1",
     "tag_name": "jdk-10+23-20180525",
     "target_commitish": "master",
     "name": "jdk-10+23-20180525",
@@ -1098,6 +1165,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1121,11 +1189,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7304050",
         "id": 7304050,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMDQwNTA=",
         "name": "OpenJDK10_ppc64le_Linux_20180525.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1153,11 +1223,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7304051",
         "id": 7304051,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMDQwNTE=",
         "name": "OpenJDK10_ppc64le_Linux_20180525.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1185,11 +1257,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7306045",
         "id": 7306045,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMDYwNDU=",
         "name": "OpenJDK10_x64_Linux_20180525.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1217,11 +1291,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7306046",
         "id": 7306046,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMDYwNDY=",
         "name": "OpenJDK10_x64_Linux_20180525.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1249,11 +1325,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7296098",
         "id": 7296098,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTYwOTg=",
         "name": "OpenJDK10_x64_Mac_20180525.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1281,11 +1359,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7296099",
         "id": 7296099,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTYwOTk=",
         "name": "OpenJDK10_x64_Mac_20180525.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1313,11 +1393,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7303327",
         "id": 7303327,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMDMzMjc=",
         "name": "OpenJDK10_x64_Win_20180525.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1345,11 +1427,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7303328",
         "id": 7303328,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczMDMzMjg=",
         "name": "OpenJDK10_x64_Win_20180525.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1385,6 +1469,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11152180/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180524",
     "id": 11152180,
+    "node_id": "MDc6UmVsZWFzZTExMTUyMTgw",
     "tag_name": "jdk-10+23-20180524",
     "target_commitish": "master",
     "name": "jdk-10+23-20180524",
@@ -1392,6 +1477,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1415,11 +1501,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7292518",
         "id": 7292518,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTI1MTg=",
         "name": "OpenJDK10_ppc64le_Linux_20180524.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1447,11 +1535,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7292519",
         "id": 7292519,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTI1MTk=",
         "name": "OpenJDK10_ppc64le_Linux_20180524.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1479,11 +1569,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7290536",
         "id": 7290536,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTA1MzY=",
         "name": "OpenJDK10_ppc64_AIX_20180524.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1511,11 +1603,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7290539",
         "id": 7290539,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTA1Mzk=",
         "name": "OpenJDK10_ppc64_AIX_20180524.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1543,11 +1637,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7292547",
         "id": 7292547,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTI1NDc=",
         "name": "OpenJDK10_x64_Linux_20180524.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1575,11 +1671,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7292548",
         "id": 7292548,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTI1NDg=",
         "name": "OpenJDK10_x64_Linux_20180524.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1607,11 +1705,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7285712",
         "id": 7285712,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyODU3MTI=",
         "name": "OpenJDK10_x64_Mac_20180524.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1639,11 +1739,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7285713",
         "id": 7285713,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyODU3MTM=",
         "name": "OpenJDK10_x64_Mac_20180524.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1671,11 +1773,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7290059",
         "id": 7290059,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTAwNTk=",
         "name": "OpenJDK10_x64_Win_20180524.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1703,11 +1807,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7290060",
         "id": 7290060,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyOTAwNjA=",
         "name": "OpenJDK10_x64_Win_20180524.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1743,6 +1849,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11130730/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180523",
     "id": 11130730,
+    "node_id": "MDc6UmVsZWFzZTExMTMwNzMw",
     "tag_name": "jdk-10+23-20180523",
     "target_commitish": "master",
     "name": "jdk-10+23-20180523",
@@ -1750,6 +1857,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1773,11 +1881,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7279192",
         "id": 7279192,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNzkxOTI=",
         "name": "OpenJDK10_ppc64le_Linux_20180523.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1805,11 +1915,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7279193",
         "id": 7279193,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNzkxOTM=",
         "name": "OpenJDK10_ppc64le_Linux_20180523.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1837,11 +1949,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7276492",
         "id": 7276492,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNzY0OTI=",
         "name": "OpenJDK10_x64_Linux_20180523.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1869,11 +1983,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7276493",
         "id": 7276493,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNzY0OTM=",
         "name": "OpenJDK10_x64_Linux_20180523.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1901,11 +2017,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7272034",
         "id": 7272034,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNzIwMzQ=",
         "name": "OpenJDK10_x64_Mac_20180523.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1933,11 +2051,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7272035",
         "id": 7272035,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNzIwMzU=",
         "name": "OpenJDK10_x64_Mac_20180523.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1965,11 +2085,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7275935",
         "id": 7275935,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNzU5MzU=",
         "name": "OpenJDK10_x64_Win_20180523.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -1997,11 +2119,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7275937",
         "id": 7275937,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNzU5Mzc=",
         "name": "OpenJDK10_x64_Win_20180523.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2037,6 +2161,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11115245/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180522",
     "id": 11115245,
+    "node_id": "MDc6UmVsZWFzZTExMTE1MjQ1",
     "tag_name": "jdk-10+23-20180522",
     "target_commitish": "master",
     "name": "jdk-10+23-20180522",
@@ -2044,6 +2169,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2067,11 +2193,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7265429",
         "id": 7265429,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNjU0Mjk=",
         "name": "OpenJDK10_ppc64le_Linux_20180522.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2099,11 +2227,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7265430",
         "id": 7265430,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNjU0MzA=",
         "name": "OpenJDK10_ppc64le_Linux_20180522.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2131,11 +2261,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7262290",
         "id": 7262290,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNjIyOTA=",
         "name": "OpenJDK10_ppc64_AIX_20180522.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2163,11 +2295,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7262291",
         "id": 7262291,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNjIyOTE=",
         "name": "OpenJDK10_ppc64_AIX_20180522.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2195,11 +2329,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7264046",
         "id": 7264046,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNjQwNDY=",
         "name": "OpenJDK10_x64_Linux_20180522.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2227,11 +2363,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7264047",
         "id": 7264047,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNjQwNDc=",
         "name": "OpenJDK10_x64_Linux_20180522.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2259,11 +2397,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7261663",
         "id": 7261663,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNjE2NjM=",
         "name": "OpenJDK10_x64_Win_20180522.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2291,11 +2431,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7261665",
         "id": 7261665,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNjE2NjU=",
         "name": "OpenJDK10_x64_Win_20180522.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2331,6 +2473,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11096093/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180521",
     "id": 11096093,
+    "node_id": "MDc6UmVsZWFzZTExMDk2MDkz",
     "tag_name": "jdk-10+23-20180521",
     "target_commitish": "master",
     "name": "jdk-10+23-20180521",
@@ -2338,6 +2481,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2361,11 +2505,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7250719",
         "id": 7250719,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNTA3MTk=",
         "name": "OpenJDK10_ppc64le_Linux_20180521.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2393,11 +2539,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7250720",
         "id": 7250720,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNTA3MjA=",
         "name": "OpenJDK10_ppc64le_Linux_20180521.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2425,11 +2573,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7248667",
         "id": 7248667,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNDg2Njc=",
         "name": "OpenJDK10_ppc64_AIX_20180521.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2457,11 +2607,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7248668",
         "id": 7248668,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNDg2Njg=",
         "name": "OpenJDK10_ppc64_AIX_20180521.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2489,11 +2641,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7251159",
         "id": 7251159,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNTExNTk=",
         "name": "OpenJDK10_x64_Linux_20180521.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2521,11 +2675,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7251160",
         "id": 7251160,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNTExNjA=",
         "name": "OpenJDK10_x64_Linux_20180521.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2553,11 +2709,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7248383",
         "id": 7248383,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNDgzODM=",
         "name": "OpenJDK10_x64_Win_20180521.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2585,11 +2743,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7248384",
         "id": 7248384,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyNDgzODQ=",
         "name": "OpenJDK10_x64_Win_20180521.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2625,6 +2785,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11076927/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180519",
     "id": 11076927,
+    "node_id": "MDc6UmVsZWFzZTExMDc2OTI3",
     "tag_name": "jdk-10+23-20180519",
     "target_commitish": "master",
     "name": "jdk-10+23-20180519",
@@ -2632,6 +2793,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2655,11 +2817,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7228781",
         "id": 7228781,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjg3ODE=",
         "name": "OpenJDK10_x64_Linux_20180519.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2687,11 +2851,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7228782",
         "id": 7228782,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjg3ODI=",
         "name": "OpenJDK10_x64_Linux_20180519.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2727,6 +2893,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11068702/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180518",
     "id": 11068702,
+    "node_id": "MDc6UmVsZWFzZTExMDY4NzAy",
     "tag_name": "jdk-10+23-20180518",
     "target_commitish": "master",
     "name": "jdk-10+23-20180518",
@@ -2734,6 +2901,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2757,11 +2925,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7227237",
         "id": 7227237,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjcyMzc=",
         "name": "OpenJDK10_ppc64le_Linux_20180518.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2789,11 +2959,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7227238",
         "id": 7227238,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjcyMzg=",
         "name": "OpenJDK10_ppc64le_Linux_20180518.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2821,11 +2993,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7224766",
         "id": 7224766,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjQ3NjY=",
         "name": "OpenJDK10_ppc64_AIX_20180518.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2853,11 +3027,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7224767",
         "id": 7224767,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjQ3Njc=",
         "name": "OpenJDK10_ppc64_AIX_20180518.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2885,11 +3061,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7227018",
         "id": 7227018,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjcwMTg=",
         "name": "OpenJDK10_x64_Mac_20180518.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2917,11 +3095,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7227019",
         "id": 7227019,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjcwMTk=",
         "name": "OpenJDK10_x64_Mac_20180518.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2949,11 +3129,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7223921",
         "id": 7223921,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjM5MjE=",
         "name": "OpenJDK10_x64_Win_20180518.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -2981,11 +3163,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7223922",
         "id": 7223922,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMjM5MjI=",
         "name": "OpenJDK10_x64_Win_20180518.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3021,6 +3205,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11049307/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180517",
     "id": 11049307,
+    "node_id": "MDc6UmVsZWFzZTExMDQ5MzA3",
     "tag_name": "jdk-10+23-20180517",
     "target_commitish": "master",
     "name": "jdk-10+23-20180517",
@@ -3028,6 +3213,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3051,11 +3237,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7213844",
         "id": 7213844,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTM4NDQ=",
         "name": "OpenJDK10_ppc64le_Linux_20180517.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3083,11 +3271,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7213845",
         "id": 7213845,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTM4NDU=",
         "name": "OpenJDK10_ppc64le_Linux_20180517.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3115,11 +3305,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7211683",
         "id": 7211683,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTE2ODM=",
         "name": "OpenJDK10_ppc64_AIX_20180517.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3147,11 +3339,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7211684",
         "id": 7211684,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTE2ODQ=",
         "name": "OpenJDK10_ppc64_AIX_20180517.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3179,11 +3373,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7213608",
         "id": 7213608,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTM2MDg=",
         "name": "OpenJDK10_x64_Linux_20180517.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3211,11 +3407,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7213609",
         "id": 7213609,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTM2MDk=",
         "name": "OpenJDK10_x64_Linux_20180517.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3243,11 +3441,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7214809",
         "id": 7214809,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTQ4MDk=",
         "name": "OpenJDK10_x64_Mac_20180517.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3275,11 +3475,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7214810",
         "id": 7214810,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTQ4MTA=",
         "name": "OpenJDK10_x64_Mac_20180517.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3307,11 +3509,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7211057",
         "id": 7211057,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTEwNTc=",
         "name": "OpenJDK10_x64_Win_20180517.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3339,11 +3543,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7211058",
         "id": 7211058,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcyMTEwNTg=",
         "name": "OpenJDK10_x64_Win_20180517.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3379,6 +3585,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11028712/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180516",
     "id": 11028712,
+    "node_id": "MDc6UmVsZWFzZTExMDI4NzEy",
     "tag_name": "jdk-10+23-20180516",
     "target_commitish": "master",
     "name": "jdk-10+23-20180516",
@@ -3386,6 +3593,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3409,11 +3617,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7198724",
         "id": 7198724,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxOTg3MjQ=",
         "name": "OpenJDK10_ppc64le_Linux_20180516.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3441,11 +3651,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7198725",
         "id": 7198725,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxOTg3MjU=",
         "name": "OpenJDK10_ppc64le_Linux_20180516.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3473,11 +3685,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7198078",
         "id": 7198078,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxOTgwNzg=",
         "name": "OpenJDK10_x64_Linux_20180516.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3505,11 +3719,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7198079",
         "id": 7198079,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxOTgwNzk=",
         "name": "OpenJDK10_x64_Linux_20180516.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3537,11 +3753,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7198885",
         "id": 7198885,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxOTg4ODU=",
         "name": "OpenJDK10_x64_Mac_20180516.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3569,11 +3787,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7198886",
         "id": 7198886,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxOTg4ODY=",
         "name": "OpenJDK10_x64_Mac_20180516.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3601,11 +3821,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7195618",
         "id": 7195618,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxOTU2MTg=",
         "name": "OpenJDK10_x64_Win_20180516.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3633,11 +3855,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7195619",
         "id": 7195619,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxOTU2MTk=",
         "name": "OpenJDK10_x64_Win_20180516.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3673,6 +3897,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/11007882/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180515",
     "id": 11007882,
+    "node_id": "MDc6UmVsZWFzZTExMDA3ODgy",
     "tag_name": "jdk-10+23-20180515",
     "target_commitish": "master",
     "name": "jdk-10+23-20180515",
@@ -3680,6 +3905,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3703,11 +3929,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7184170",
         "id": 7184170,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxODQxNzA=",
         "name": "OpenJDK10_ppc64le_Linux_20180515.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3735,11 +3963,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7184171",
         "id": 7184171,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxODQxNzE=",
         "name": "OpenJDK10_ppc64le_Linux_20180515.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3767,11 +3997,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7183825",
         "id": 7183825,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxODM4MjU=",
         "name": "OpenJDK10_x64_Linux_20180515.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3799,11 +4031,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7183826",
         "id": 7183826,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxODM4MjY=",
         "name": "OpenJDK10_x64_Linux_20180515.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3831,11 +4065,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7184388",
         "id": 7184388,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxODQzODg=",
         "name": "OpenJDK10_x64_Mac_20180515.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3863,11 +4099,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7184389",
         "id": 7184389,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxODQzODk=",
         "name": "OpenJDK10_x64_Mac_20180515.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3895,11 +4133,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7181378",
         "id": 7181378,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxODEzNzg=",
         "name": "OpenJDK10_x64_Win_20180515.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3927,11 +4167,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7181379",
         "id": 7181379,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxODEzNzk=",
         "name": "OpenJDK10_x64_Win_20180515.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3967,6 +4209,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10988278/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180514",
     "id": 10988278,
+    "node_id": "MDc6UmVsZWFzZTEwOTg4Mjc4",
     "tag_name": "jdk-10+23-20180514",
     "target_commitish": "master",
     "name": "jdk-10+23-20180514",
@@ -3974,6 +4217,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -3997,11 +4241,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7171617",
         "id": 7171617,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNzE2MTc=",
         "name": "OpenJDK10_ppc64le_Linux_20180514.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4029,11 +4275,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7171618",
         "id": 7171618,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNzE2MTg=",
         "name": "OpenJDK10_ppc64le_Linux_20180514.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4061,11 +4309,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7170375",
         "id": 7170375,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNzAzNzU=",
         "name": "OpenJDK10_x64_Linux_20180514.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4093,11 +4343,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7170376",
         "id": 7170376,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNzAzNzY=",
         "name": "OpenJDK10_x64_Linux_20180514.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4125,11 +4377,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7172074",
         "id": 7172074,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNzIwNzQ=",
         "name": "OpenJDK10_x64_Mac_20180514.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4157,11 +4411,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7172075",
         "id": 7172075,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNzIwNzU=",
         "name": "OpenJDK10_x64_Mac_20180514.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4189,11 +4445,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7168649",
         "id": 7168649,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNjg2NDk=",
         "name": "OpenJDK10_x64_Win_20180514.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4221,11 +4479,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7168650",
         "id": 7168650,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNjg2NTA=",
         "name": "OpenJDK10_x64_Win_20180514.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4261,6 +4521,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10959556/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180511",
     "id": 10959556,
+    "node_id": "MDc6UmVsZWFzZTEwOTU5NTU2",
     "tag_name": "jdk-10+23-20180511",
     "target_commitish": "master",
     "name": "jdk-10+23-20180511",
@@ -4268,6 +4529,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4291,11 +4553,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7143732",
         "id": 7143732,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNDM3MzI=",
         "name": "OpenJDK10_ppc64le_Linux_20180511.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4323,11 +4587,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7143733",
         "id": 7143733,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNDM3MzM=",
         "name": "OpenJDK10_ppc64le_Linux_20180511.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4355,11 +4621,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7143078",
         "id": 7143078,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNDMwNzg=",
         "name": "OpenJDK10_x64_Linux_20180511.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4387,11 +4655,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7143079",
         "id": 7143079,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNDMwNzk=",
         "name": "OpenJDK10_x64_Linux_20180511.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4419,11 +4689,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7144841",
         "id": 7144841,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNDQ4NDE=",
         "name": "OpenJDK10_x64_Mac_20180511.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4451,11 +4723,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7144842",
         "id": 7144842,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNDQ4NDI=",
         "name": "OpenJDK10_x64_Mac_20180511.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4483,11 +4757,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7141005",
         "id": 7141005,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNDEwMDU=",
         "name": "OpenJDK10_x64_Win_20180511.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4515,11 +4791,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7141006",
         "id": 7141006,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxNDEwMDY=",
         "name": "OpenJDK10_x64_Win_20180511.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4555,6 +4833,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10941202/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180510",
     "id": 10941202,
+    "node_id": "MDc6UmVsZWFzZTEwOTQxMjAy",
     "tag_name": "jdk-10+23-20180510",
     "target_commitish": "master",
     "name": "jdk-10+23-20180510",
@@ -4562,6 +4841,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4585,11 +4865,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7131162",
         "id": 7131162,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMzExNjI=",
         "name": "OpenJDK10_ppc64le_Linux_20180510.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4617,11 +4899,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7131163",
         "id": 7131163,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMzExNjM=",
         "name": "OpenJDK10_ppc64le_Linux_20180510.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4649,11 +4933,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7130280",
         "id": 7130280,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMzAyODA=",
         "name": "OpenJDK10_x64_Linux_20180510.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4681,11 +4967,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7130281",
         "id": 7130281,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMzAyODE=",
         "name": "OpenJDK10_x64_Linux_20180510.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4713,11 +5001,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7131482",
         "id": 7131482,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMzE0ODI=",
         "name": "OpenJDK10_x64_Mac_20180510.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4745,11 +5035,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7131483",
         "id": 7131483,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMzE0ODM=",
         "name": "OpenJDK10_x64_Mac_20180510.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4777,11 +5069,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7128616",
         "id": 7128616,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMjg2MTY=",
         "name": "OpenJDK10_x64_Win_20180510.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4809,11 +5103,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7128617",
         "id": 7128617,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMjg2MTc=",
         "name": "OpenJDK10_x64_Win_20180510.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4849,6 +5145,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10922600/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180509",
     "id": 10922600,
+    "node_id": "MDc6UmVsZWFzZTEwOTIyNjAw",
     "tag_name": "jdk-10+23-20180509",
     "target_commitish": "master",
     "name": "jdk-10+23-20180509",
@@ -4856,6 +5153,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4879,11 +5177,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7119592",
         "id": 7119592,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMTk1OTI=",
         "name": "OpenJDK10_ppc64le_Linux_20180509.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4911,11 +5211,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7119593",
         "id": 7119593,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMTk1OTM=",
         "name": "OpenJDK10_ppc64le_Linux_20180509.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4943,11 +5245,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7118167",
         "id": 7118167,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMTgxNjc=",
         "name": "OpenJDK10_x64_Linux_20180509.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -4975,11 +5279,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7118168",
         "id": 7118168,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMTgxNjg=",
         "name": "OpenJDK10_x64_Linux_20180509.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5007,11 +5313,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7120685",
         "id": 7120685,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMjA2ODU=",
         "name": "OpenJDK10_x64_Mac_20180509.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5039,11 +5347,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7120686",
         "id": 7120686,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMjA2ODY=",
         "name": "OpenJDK10_x64_Mac_20180509.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5071,11 +5381,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7116204",
         "id": 7116204,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMTYyMDQ=",
         "name": "OpenJDK10_x64_Win_20180509.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5103,11 +5415,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7116205",
         "id": 7116205,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMTYyMDU=",
         "name": "OpenJDK10_x64_Win_20180509.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5143,6 +5457,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10892866/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180508",
     "id": 10892866,
+    "node_id": "MDc6UmVsZWFzZTEwODkyODY2",
     "tag_name": "jdk-10+23-20180508",
     "target_commitish": "master",
     "name": "jdk-10+23-20180508",
@@ -5150,6 +5465,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5173,11 +5489,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7106577",
         "id": 7106577,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMDY1Nzc=",
         "name": "OpenJDK10_ppc64le_Linux_20180508.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5205,11 +5523,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7106578",
         "id": 7106578,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMDY1Nzg=",
         "name": "OpenJDK10_ppc64le_Linux_20180508.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5237,11 +5557,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7105880",
         "id": 7105880,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMDU4ODA=",
         "name": "OpenJDK10_x64_Linux_20180508.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5269,11 +5591,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7105881",
         "id": 7105881,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMDU4ODE=",
         "name": "OpenJDK10_x64_Linux_20180508.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5301,11 +5625,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7107622",
         "id": 7107622,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMDc2MjI=",
         "name": "OpenJDK10_x64_Mac_20180508.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5333,11 +5659,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7107624",
         "id": 7107624,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMDc2MjQ=",
         "name": "OpenJDK10_x64_Mac_20180508.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5365,11 +5693,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7103623",
         "id": 7103623,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMDM2MjM=",
         "name": "OpenJDK10_x64_Win_20180508.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5397,11 +5727,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7103624",
         "id": 7103624,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcxMDM2MjQ=",
         "name": "OpenJDK10_x64_Win_20180508.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5437,6 +5769,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10882538/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180507",
     "id": 10882538,
+    "node_id": "MDc6UmVsZWFzZTEwODgyNTM4",
     "tag_name": "jdk-10+23-20180507",
     "target_commitish": "master",
     "name": "jdk-10+23-20180507",
@@ -5444,6 +5777,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5467,11 +5801,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7094594",
         "id": 7094594,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwOTQ1OTQ=",
         "name": "OpenJDK10_ppc64le_Linux_20180507.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5499,11 +5835,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7094595",
         "id": 7094595,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwOTQ1OTU=",
         "name": "OpenJDK10_ppc64le_Linux_20180507.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5531,11 +5869,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7094143",
         "id": 7094143,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwOTQxNDM=",
         "name": "OpenJDK10_x64_Linux_20180507.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5563,11 +5903,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7094144",
         "id": 7094144,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwOTQxNDQ=",
         "name": "OpenJDK10_x64_Linux_20180507.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5595,11 +5937,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7092099",
         "id": 7092099,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwOTIwOTk=",
         "name": "OpenJDK10_x64_Win_20180507.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5627,11 +5971,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7092100",
         "id": 7092100,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwOTIxMDA=",
         "name": "OpenJDK10_x64_Win_20180507.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5667,6 +6013,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10862057/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180505",
     "id": 10862057,
+    "node_id": "MDc6UmVsZWFzZTEwODYyMDU3",
     "tag_name": "jdk-10+23-20180505",
     "target_commitish": "master",
     "name": "jdk-10+23-20180505",
@@ -5674,6 +6021,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5697,11 +6045,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7074696",
         "id": 7074696,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNzQ2OTY=",
         "name": "OpenJDK10_ppc64le_Linux_20180505.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5729,11 +6079,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7074697",
         "id": 7074697,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNzQ2OTc=",
         "name": "OpenJDK10_ppc64le_Linux_20180505.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5769,6 +6121,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10844625/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180504",
     "id": 10844625,
+    "node_id": "MDc6UmVsZWFzZTEwODQ0NjI1",
     "tag_name": "jdk-10+23-20180504",
     "target_commitish": "master",
     "name": "jdk-10+23-20180504",
@@ -5776,6 +6129,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5799,11 +6153,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7063496",
         "id": 7063496,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNjM0OTY=",
         "name": "OpenJDK10_ppc64le_Linux_20180504.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5831,11 +6187,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7063497",
         "id": 7063497,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNjM0OTc=",
         "name": "OpenJDK10_ppc64le_Linux_20180504.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5863,11 +6221,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7071959",
         "id": 7071959,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNzE5NTk=",
         "name": "OpenJDK10_x64_Linux_20180504.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5895,11 +6255,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7071960",
         "id": 7071960,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNzE5NjA=",
         "name": "OpenJDK10_x64_Linux_20180504.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5927,11 +6289,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7073561",
         "id": 7073561,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNzM1NjE=",
         "name": "OpenJDK10_x64_Mac_20180504.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5959,11 +6323,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7073562",
         "id": 7073562,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNzM1NjI=",
         "name": "OpenJDK10_x64_Mac_20180504.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -5991,11 +6357,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7070216",
         "id": 7070216,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNzAyMTY=",
         "name": "OpenJDK10_x64_Win_20180504.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6023,11 +6391,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7070217",
         "id": 7070217,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNzAyMTc=",
         "name": "OpenJDK10_x64_Win_20180504.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6063,6 +6433,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10824236/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180503",
     "id": 10824236,
+    "node_id": "MDc6UmVsZWFzZTEwODI0MjM2",
     "tag_name": "jdk-10+23-20180503",
     "target_commitish": "master",
     "name": "jdk-10+23-20180503",
@@ -6070,6 +6441,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6093,11 +6465,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7050372",
         "id": 7050372,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNTAzNzI=",
         "name": "OpenJDK10_ppc64le_Linux_20180503.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6125,11 +6499,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7050373",
         "id": 7050373,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNTAzNzM=",
         "name": "OpenJDK10_ppc64le_Linux_20180503.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6157,11 +6533,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7059843",
         "id": 7059843,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNTk4NDM=",
         "name": "OpenJDK10_x64_Linux_20180503.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6189,11 +6567,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7059844",
         "id": 7059844,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNTk4NDQ=",
         "name": "OpenJDK10_x64_Linux_20180503.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6221,11 +6601,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7061338",
         "id": 7061338,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNjEzMzg=",
         "name": "OpenJDK10_x64_Mac_20180503.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6253,11 +6635,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7061339",
         "id": 7061339,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNjEzMzk=",
         "name": "OpenJDK10_x64_Mac_20180503.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6285,11 +6669,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7057818",
         "id": 7057818,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNTc4MTg=",
         "name": "OpenJDK10_x64_Win_20180503.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6317,11 +6703,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7057819",
         "id": 7057819,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwNTc4MTk=",
         "name": "OpenJDK10_x64_Win_20180503.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6357,6 +6745,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10797319/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180501",
     "id": 10797319,
+    "node_id": "MDc6UmVsZWFzZTEwNzk3MzE5",
     "tag_name": "jdk-10+23-20180501",
     "target_commitish": "master",
     "name": "jdk-10+23-20180501",
@@ -6364,6 +6753,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6387,11 +6777,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7034284",
         "id": 7034284,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzQyODQ=",
         "name": "OpenJDK10_ppc64le_Linux_20180501.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6419,11 +6811,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7034285",
         "id": 7034285,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzQyODU=",
         "name": "OpenJDK10_ppc64le_Linux_20180501.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6451,11 +6845,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7033542",
         "id": 7033542,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzM1NDI=",
         "name": "OpenJDK10_ppc64_AIX_20180501.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6483,11 +6879,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7033543",
         "id": 7033543,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzM1NDM=",
         "name": "OpenJDK10_ppc64_AIX_20180501.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6515,11 +6913,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7033810",
         "id": 7033810,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzM4MTA=",
         "name": "OpenJDK10_x64_Linux_20180501.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6547,11 +6947,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7033812",
         "id": 7033812,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzM4MTI=",
         "name": "OpenJDK10_x64_Linux_20180501.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6579,11 +6981,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7035045",
         "id": 7035045,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzUwNDU=",
         "name": "OpenJDK10_x64_Mac_20180501.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6611,11 +7015,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7035046",
         "id": 7035046,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzUwNDY=",
         "name": "OpenJDK10_x64_Mac_20180501.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6643,11 +7049,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7032626",
         "id": 7032626,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzI2MjY=",
         "name": "OpenJDK10_x64_Win_20180501.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6675,11 +7083,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7032627",
         "id": 7032627,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMzI2Mjc=",
         "name": "OpenJDK10_x64_Win_20180501.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6715,6 +7125,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10783270/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180430",
     "id": 10783270,
+    "node_id": "MDc6UmVsZWFzZTEwNzgzMjcw",
     "tag_name": "jdk-10+23-20180430",
     "target_commitish": "master",
     "name": "jdk-10+23-20180430",
@@ -6722,6 +7133,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6745,11 +7157,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7025141",
         "id": 7025141,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjUxNDE=",
         "name": "OpenJDK10_ppc64le_Linux_20180430.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6777,11 +7191,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7025142",
         "id": 7025142,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjUxNDI=",
         "name": "OpenJDK10_ppc64le_Linux_20180430.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6809,11 +7225,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7024183",
         "id": 7024183,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjQxODM=",
         "name": "OpenJDK10_ppc64_AIX_20180430.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6841,11 +7259,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7024184",
         "id": 7024184,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjQxODQ=",
         "name": "OpenJDK10_ppc64_AIX_20180430.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6873,11 +7293,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7024331",
         "id": 7024331,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjQzMzE=",
         "name": "OpenJDK10_x64_Linux_20180430.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6905,11 +7327,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7024332",
         "id": 7024332,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjQzMzI=",
         "name": "OpenJDK10_x64_Linux_20180430.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6937,11 +7361,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7025486",
         "id": 7025486,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjU0ODY=",
         "name": "OpenJDK10_x64_Mac_20180430.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -6969,11 +7395,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7025487",
         "id": 7025487,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjU0ODc=",
         "name": "OpenJDK10_x64_Mac_20180430.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7001,11 +7429,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7023038",
         "id": 7023038,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjMwMzg=",
         "name": "OpenJDK10_x64_Win_20180430.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7033,11 +7463,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7023039",
         "id": 7023039,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMjMwMzk=",
         "name": "OpenJDK10_x64_Win_20180430.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7073,6 +7505,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10755605/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180427",
     "id": 10755605,
+    "node_id": "MDc6UmVsZWFzZTEwNzU1NjA1",
     "tag_name": "jdk-10+23-20180427",
     "target_commitish": "master",
     "name": "jdk-10+23-20180427",
@@ -7080,6 +7513,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7103,11 +7537,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7001228",
         "id": 7001228,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMDEyMjg=",
         "name": "OpenJDK10_ppc64le_Linux_20180427.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7135,11 +7571,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7001229",
         "id": 7001229,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMDEyMjk=",
         "name": "OpenJDK10_ppc64le_Linux_20180427.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7167,11 +7605,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7000225",
         "id": 7000225,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMDAyMjU=",
         "name": "OpenJDK10_ppc64_AIX_20180427.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7199,11 +7639,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7000226",
         "id": 7000226,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMDAyMjY=",
         "name": "OpenJDK10_ppc64_AIX_20180427.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7231,11 +7673,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7001005",
         "id": 7001005,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMDEwMDU=",
         "name": "OpenJDK10_x64_Linux_20180427.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7263,11 +7707,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7001006",
         "id": 7001006,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMDEwMDY=",
         "name": "OpenJDK10_x64_Linux_20180427.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7295,11 +7741,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7001720",
         "id": 7001720,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMDE3MjA=",
         "name": "OpenJDK10_x64_Mac_20180427.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7327,11 +7775,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7001721",
         "id": 7001721,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDcwMDE3MjE=",
         "name": "OpenJDK10_x64_Mac_20180427.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7359,11 +7809,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6998631",
         "id": 6998631,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5OTg2MzE=",
         "name": "OpenJDK10_x64_Win_20180427.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7391,11 +7843,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6998632",
         "id": 6998632,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5OTg2MzI=",
         "name": "OpenJDK10_x64_Win_20180427.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7431,6 +7885,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10736287/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180426",
     "id": 10736287,
+    "node_id": "MDc6UmVsZWFzZTEwNzM2Mjg3",
     "tag_name": "jdk-10+23-20180426",
     "target_commitish": "master",
     "name": "jdk-10+23-20180426",
@@ -7438,6 +7893,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7461,11 +7917,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6987205",
         "id": 6987205,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODcyMDU=",
         "name": "OpenJDK10_ppc64le_Linux_20180426.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7493,11 +7951,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6987206",
         "id": 6987206,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODcyMDY=",
         "name": "OpenJDK10_ppc64le_Linux_20180426.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7525,11 +7985,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6986136",
         "id": 6986136,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODYxMzY=",
         "name": "OpenJDK10_ppc64_AIX_20180426.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7557,11 +8019,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6986139",
         "id": 6986139,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODYxMzk=",
         "name": "OpenJDK10_ppc64_AIX_20180426.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7589,11 +8053,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6986228",
         "id": 6986228,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODYyMjg=",
         "name": "OpenJDK10_x64_Linux_20180426.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7621,11 +8087,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6986229",
         "id": 6986229,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODYyMjk=",
         "name": "OpenJDK10_x64_Linux_20180426.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7653,11 +8121,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6987917",
         "id": 6987917,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODc5MTc=",
         "name": "OpenJDK10_x64_Mac_20180426.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7685,11 +8155,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6987918",
         "id": 6987918,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODc5MTg=",
         "name": "OpenJDK10_x64_Mac_20180426.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7717,11 +8189,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6984147",
         "id": 6984147,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODQxNDc=",
         "name": "OpenJDK10_x64_Win_20180426.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7749,11 +8223,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6984148",
         "id": 6984148,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5ODQxNDg=",
         "name": "OpenJDK10_x64_Win_20180426.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7789,6 +8265,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10704339/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180425",
     "id": 10704339,
+    "node_id": "MDc6UmVsZWFzZTEwNzA0MzM5",
     "tag_name": "jdk-10+23-20180425",
     "target_commitish": "master",
     "name": "jdk-10+23-20180425",
@@ -7796,6 +8273,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7819,11 +8297,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6973512",
         "id": 6973512,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NzM1MTI=",
         "name": "OpenJDK10_ppc64le_Linux_20180425.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7851,11 +8331,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6973513",
         "id": 6973513,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NzM1MTM=",
         "name": "OpenJDK10_ppc64le_Linux_20180425.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7883,11 +8365,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6971417",
         "id": 6971417,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NzE0MTc=",
         "name": "OpenJDK10_ppc64_AIX_20180425.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7915,11 +8399,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6971418",
         "id": 6971418,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NzE0MTg=",
         "name": "OpenJDK10_ppc64_AIX_20180425.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7947,11 +8433,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6971744",
         "id": 6971744,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NzE3NDQ=",
         "name": "OpenJDK10_x64_Linux_20180425.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -7979,11 +8467,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6971745",
         "id": 6971745,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NzE3NDU=",
         "name": "OpenJDK10_x64_Linux_20180425.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8011,11 +8501,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6973419",
         "id": 6973419,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NzM0MTk=",
         "name": "OpenJDK10_x64_Mac_20180425.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8043,11 +8535,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6973420",
         "id": 6973420,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NzM0MjA=",
         "name": "OpenJDK10_x64_Mac_20180425.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8075,11 +8569,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6969884",
         "id": 6969884,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5Njk4ODQ=",
         "name": "OpenJDK10_x64_Win_20180425.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8107,11 +8603,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6969885",
         "id": 6969885,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5Njk4ODU=",
         "name": "OpenJDK10_x64_Win_20180425.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8147,6 +8645,7 @@
     "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/10694862/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/tag/jdk-10%2B23-20180424",
     "id": 10694862,
+    "node_id": "MDc6UmVsZWFzZTEwNjk0ODYy",
     "tag_name": "jdk-10+23-20180424",
     "target_commitish": "master",
     "name": "jdk-10+23-20180424",
@@ -8154,6 +8653,7 @@
     "author": {
       "login": "adoptopenjdk-github-bot",
       "id": 26602665,
+      "node_id": "MDQ6VXNlcjI2NjAyNjY1",
       "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
       "gravatar_id": "",
       "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8177,11 +8677,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6958485",
         "id": 6958485,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NTg0ODU=",
         "name": "OpenJDK10_ppc64_AIX_20180424.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8209,11 +8711,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6958486",
         "id": 6958486,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NTg0ODY=",
         "name": "OpenJDK10_ppc64_AIX_20180424.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8241,11 +8745,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6958929",
         "id": 6958929,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NTg5Mjk=",
         "name": "OpenJDK10_x64_Linux_20180424.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8273,11 +8779,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6958930",
         "id": 6958930,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NTg5MzA=",
         "name": "OpenJDK10_x64_Linux_20180424.tar.gz",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8305,11 +8813,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6956934",
         "id": 6956934,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NTY5MzQ=",
         "name": "OpenJDK10_x64_Win_20180424.sha256.txt",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -8337,11 +8847,13 @@
       {
         "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/6956935",
         "id": 6956935,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDY5NTY5MzU=",
         "name": "OpenJDK10_x64_Win_20180424.zip",
         "label": "",
         "uploader": {
           "login": "adoptopenjdk-github-bot",
           "id": 26602665,
+          "node_id": "MDQ6VXNlcjI2NjAyNjY1",
           "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/adoptopenjdk-github-bot",
