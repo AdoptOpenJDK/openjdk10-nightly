@@ -32,8 +32,8 @@
   "published_at": "2018-05-29T22:34:28Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7342465",
-      "id": 7342465,
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7352161",
+      "id": 7352161,
       "name": "OpenJDK10_ppc64le_Linux_20180530.sha256.txt",
       "label": "",
       "uploader": {
@@ -59,13 +59,13 @@
       "state": "uploaded",
       "size": 106,
       "download_count": 0,
-      "created_at": "2018-05-29T22:34:28Z",
-      "updated_at": "2018-05-29T22:34:28Z",
+      "created_at": "2018-05-30T16:37:21Z",
+      "updated_at": "2018-05-30T16:37:21Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20180530/OpenJDK10_ppc64le_Linux_20180530.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7342466",
-      "id": 7342466,
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-nightly/releases/assets/7352162",
+      "id": 7352162,
       "name": "OpenJDK10_ppc64le_Linux_20180530.tar.gz",
       "label": "",
       "uploader": {
@@ -89,10 +89,10 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 360358133,
+      "size": 360361752,
       "download_count": 0,
-      "created_at": "2018-05-29T22:34:29Z",
-      "updated_at": "2018-05-29T22:34:46Z",
+      "created_at": "2018-05-30T16:37:22Z",
+      "updated_at": "2018-05-30T16:37:40Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-20180530/OpenJDK10_ppc64le_Linux_20180530.tar.gz"
     },
     {
