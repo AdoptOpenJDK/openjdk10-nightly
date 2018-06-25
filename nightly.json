@@ -313,7 +313,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 231022430,
-        "download_count": 25,
+        "download_count": 26,
         "created_at": "2018-06-18T15:08:19Z",
         "updated_at": "2018-06-18T15:08:30Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-201818060939/OpenJDK10_x64_Windows_201818060939.zip"
@@ -421,7 +421,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 362918862,
-        "download_count": 9,
+        "download_count": 10,
         "created_at": "2018-06-18T14:41:57Z",
         "updated_at": "2018-06-18T14:42:17Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-201818061552/OpenJDK10_aarch64_Linux_201818061552.tar.gz"
