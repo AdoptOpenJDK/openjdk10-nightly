@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-07-27T14:22:58Z",
         "updated_at": "2018-07-27T14:22:58Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/jdk-10%2B23-201807271552/OpenJDK10_x64_Windows_201807271552.sha256.txt"
