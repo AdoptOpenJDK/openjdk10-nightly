@@ -613,7 +613,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 389689472,
-        "download_count": 7,
+        "download_count": 9,
         "created_at": "2018-08-20T15:02:36Z",
         "updated_at": "2018-08-20T15:03:10Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-nightly/releases/download/201808201600/OpenJDK10_x64_Linux_201808201600.tar.gz"
