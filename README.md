@@ -1,6 +1,6 @@
 # Nightly Builds
 
-This repository was used for publishing all of the nightly builds from the AdoptOpenJDK OpenJDK build community.
+This repository was used for publishing all of the OpenJDK 10 nightly builds from the AdoptOpenJDK OpenJDK build community.
 
 These binaries are built on a shared CI infrastructure (see https://ci.adoptopenjdk.net) using an openly shared build tool chain (see https://github.com/AdoptOpenJDK/openjdk-build)
 
